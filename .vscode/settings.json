@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "simpleFoam.C": "cpp",
+        "fvcFlux.C": "cpp",
+        "mySimpleFoam.C": "cpp"
+    }
+}
